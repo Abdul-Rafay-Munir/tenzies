@@ -6,6 +6,7 @@ export default function Dice(props) {
         <button
             style={styles}
             onClick={props.hold}
+            className={props.className}
         >{props.value}</button>
     )
 }
