@@ -4,7 +4,7 @@ A web-based dice game built with React + Vite. The goal: roll ten dice, lock or 
 
 ## 🚀 What is Tenzies
 
-Tenzies is a simple but addictive dice game, perfect for practicing React fundamentals and UI logic. Players roll dice, choose which dice to “hold”, and try to get all dice to match. :contentReference[oaicite:0]{index=0}  
+Tenzies is a simple but addictive dice game, perfect for practicing React fundamentals and UI logic. Players roll dice, choose which dice to “hold”, and try to get all dice to match.
 
 ## 🎯 How to Play
 
